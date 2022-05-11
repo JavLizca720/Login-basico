@@ -1,0 +1,13 @@
+Este es un proyecto basico :D espero pueda ayudar a alguien.
+Contiene: 
+*Login y registro basico
+*Saluda al usuario por nombre y genero
+*Muestra una imagen por genero del usuario
+*Valida contraseñas repetidas
+
+
+#######
+#FALTA#
+#######
+
+*Falta una validacion para impedir la repeticion del usuario.(La base de datos tiene valor UNIQUE) pero desde el proyecto no he podido hacerlo
